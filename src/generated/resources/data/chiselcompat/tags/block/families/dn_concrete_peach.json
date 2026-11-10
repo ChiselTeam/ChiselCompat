@@ -1,0 +1,516 @@
+{
+  "values": [
+    {
+      "id": "chiselcompat:dn_concrete_peach_array",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_border_square",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_border_square_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_braid",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_braid_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_bricks_cracked",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_bricks_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_bricks_indent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_bricks_inlayed",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_bricks_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_bricks_large_rough",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_bricks_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_bricks_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_bricks_soft",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_bricks_solid",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_bricks_square",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_bricks_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_bricks_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_caution_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_chaotic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_chaotic_medium",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_chaotic_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_checker",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_checker_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_chisel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_chisel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_chisel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_chisel_4",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_chisel_5",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_chisel_6",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_circular",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_cobble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_cracked",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_cuts",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_diamond_plating_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_dots",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_dots_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_facet",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_facet_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_facet_small_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_frame",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_french_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_french_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_gem",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_gem_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_gem_1_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_gem_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_gem_2_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_gem_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_gem_3_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_heart",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_herringbone",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_herringbone_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_indent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_jellybean",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_layers",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_layers_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_lodestone",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_lodestone_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_meander_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_meander_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_medallion",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_medallion_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_mesh_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_mosaic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_ornate_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_parquet",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_parquet_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_pillar",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_pillar_basic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_pillar_basic_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_pillar_basic_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_pillar_basic_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_pillar_basic_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_pillar_classic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_pillar_classic_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_pillar_ionic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_pillar_ionic_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_pillar_ionic_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_pillar_ionic_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_pillar_ionic_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_pillar_large_basic_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_pillar_large_ionic_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_pillar_meander",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_pillar_meander_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_pillar_meander_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_pillar_meander_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_pillar_meander_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_plank",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_plank_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_plate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_plate_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_plating",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_plumbing_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_polished",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_polished_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_prism",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_raw",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_road",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_scaffold_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_shiny",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_shiny_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_skull_creeper",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_skull_skeleton",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_slab",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_slanted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_star",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_stripes",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_stripes_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_tiles",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_tiles_inlayed",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_tiles_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_tiles_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_tiles_small_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_twisted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_waves",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_weaver",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_peach_zag",
+      "required": false
+    },
+    {
+      "id": "dyenamics:peach_concrete",
+      "required": false
+    }
+  ]
+}

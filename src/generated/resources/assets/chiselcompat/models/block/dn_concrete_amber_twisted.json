@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "chiselcompat:block/dn_concrete_amber/dn_concrete_amber_twisted-top",
+    "side": "chiselcompat:block/dn_concrete_amber/dn_concrete_amber_twisted-side",
+    "top": "chiselcompat:block/dn_concrete_amber/dn_concrete_amber_twisted-top"
+  }
+}

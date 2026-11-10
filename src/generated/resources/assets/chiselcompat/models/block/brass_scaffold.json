@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/brass/brass_scaffold",
+    "particle": "chiselcompat:block/brass/brass_scaffold",
+    "standard_corner": "chiselcompat:block/brass/brass_scaffold-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/brass/brass_scaffold-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/brass/brass_scaffold-ctm_horizontal",
+    "standard_none": "chiselcompat:block/brass/brass_scaffold",
+    "standard_vertical": "chiselcompat:block/brass/brass_scaffold-ctm_vertical"
+  }
+}

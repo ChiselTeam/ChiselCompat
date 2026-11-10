@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/tin/tin_scaffold",
+    "particle": "chiselcompat:block/tin/tin_scaffold",
+    "standard_corner": "chiselcompat:block/tin/tin_scaffold-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/tin/tin_scaffold-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/tin/tin_scaffold-ctm_horizontal",
+    "standard_none": "chiselcompat:block/tin/tin_scaffold",
+    "standard_vertical": "chiselcompat:block/tin/tin_scaffold-ctm_vertical"
+  }
+}

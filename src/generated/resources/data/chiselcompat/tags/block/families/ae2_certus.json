@@ -1,0 +1,520 @@
+{
+  "values": [
+    {
+      "id": "ae2:chiseled_quartz_block",
+      "required": false
+    },
+    {
+      "id": "ae2:cut_quartz_block",
+      "required": false
+    },
+    {
+      "id": "ae2:quartz_block",
+      "required": false
+    },
+    {
+      "id": "ae2:quartz_bricks",
+      "required": false
+    },
+    {
+      "id": "ae2:quartz_pillar",
+      "required": false
+    },
+    {
+      "id": "ae2:smooth_quartz_block",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_array",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_border_square",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_border_square_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_braid",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_braid_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_bricks_cracked",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_bricks_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_bricks_indent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_bricks_inlayed",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_bricks_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_bricks_large_rough",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_bricks_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_bricks_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_bricks_soft",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_bricks_solid",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_bricks_square",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_bricks_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_bricks_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_chaotic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_chaotic_medium",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_chaotic_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_checker",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_checker_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_chisel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_chisel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_chisel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_chisel_4",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_chisel_5",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_chisel_6",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_circular",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_cobble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_cuts",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_dots",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_dots_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_facet",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_facet_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_facet_small_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_frame",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_french_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_french_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_gem",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_gem_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_gem_1_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_gem_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_gem_2_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_gem_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_gem_3_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_heart",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_herringbone",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_herringbone_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_indent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_jellybean",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_large_bricks",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_layers",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_layers_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_lodestone",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_lodestone_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_meander_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_meander_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_medallion",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_medallion_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_mosaic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_ornate_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_parquet",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_parquet_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_pillar",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_pillar_basic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_pillar_basic_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_pillar_basic_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_pillar_basic_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_pillar_basic_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_pillar_classic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_pillar_classic_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_pillar_ionic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_pillar_ionic_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_pillar_ionic_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_pillar_ionic_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_pillar_ionic_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_pillar_large_basic_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_pillar_large_ionic_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_pillar_meander",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_pillar_meander_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_pillar_meander_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_pillar_meander_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_pillar_meander_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_plank",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_plank_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_plate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_plate_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_plating",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_polished",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_polished_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_prism",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_raw",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_road",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_scaffold_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_shiny",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_shiny_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_skull_creeper",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_skull_skeleton",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_slab",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_slanted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_star",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_stripes",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_stripes_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_tiles",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_tiles_inlayed",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_tiles_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_tiles_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_tiles_small_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_twisted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_waves",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_weaver",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:certus_zag",
+      "required": false
+    }
+  ]
+}

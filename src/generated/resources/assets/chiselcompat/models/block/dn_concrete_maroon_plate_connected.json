@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/dn_concrete_maroon/dn_concrete_maroon_plate_connected",
+    "particle": "chiselcompat:block/dn_concrete_maroon/dn_concrete_maroon_plate_connected",
+    "standard_corner": "chiselcompat:block/dn_concrete_maroon/dn_concrete_maroon_plate_connected-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/dn_concrete_maroon/dn_concrete_maroon_raw",
+    "standard_horizontal": "chiselcompat:block/dn_concrete_maroon/dn_concrete_maroon_plate_connected-ctm_horizontal",
+    "standard_none": "chiselcompat:block/dn_concrete_maroon/dn_concrete_maroon_plate_connected",
+    "standard_vertical": "chiselcompat:block/dn_concrete_maroon/dn_concrete_maroon_plate_connected-ctm_vertical"
+  }
+}

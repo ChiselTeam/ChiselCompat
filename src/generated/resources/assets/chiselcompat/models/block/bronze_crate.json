@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/bronze/bronze_crate",
+    "particle": "chiselcompat:block/bronze/bronze_crate",
+    "standard_corner": "chiselcompat:block/bronze/bronze_crate-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/bronze/bronze_crate-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/bronze/bronze_crate-ctm_horizontal",
+    "standard_none": "chiselcompat:block/bronze/bronze_crate",
+    "standard_vertical": "chiselcompat:block/bronze/bronze_crate-ctm_vertical"
+  }
+}

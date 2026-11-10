@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/signalum",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:signalum_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:signalum_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:signalum_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:signalum_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:signalum_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:signalum_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:signalum_zelda",
+      "required": false
+    }
+  ]
+}

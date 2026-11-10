@@ -1,0 +1,10 @@
+{
+  "textures": {
+    "particle": "chiselcompat:block/dn_steel_framed_stained_glass_lavender/dn_steel_framed_stained_glass_lavender_bubble",
+    "standard_corner": "chiselcompat:block/dn_steel_framed_stained_glass_lavender/dn_steel_framed_stained_glass_lavender-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/dn_stained_glass_lavender/dn_stained_glass_lavender_borderless",
+    "standard_horizontal": "chiselcompat:block/dn_steel_framed_stained_glass_lavender/dn_steel_framed_stained_glass_lavender-ctm_horizontal",
+    "standard_none": "chiselcompat:block/dn_steel_framed_stained_glass_lavender/dn_steel_framed_stained_glass_lavender_bubble",
+    "standard_vertical": "chiselcompat:block/dn_steel_framed_stained_glass_lavender/dn_steel_framed_stained_glass_lavender-ctm_vertical"
+  }
+}

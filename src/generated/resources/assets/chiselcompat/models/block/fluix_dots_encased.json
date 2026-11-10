@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/ae2_fluix/fluix_dots_encased",
+    "particle": "chiselcompat:block/ae2_fluix/fluix_dots_encased",
+    "standard_corner": "chiselcompat:block/ae2_fluix/fluix_dots_encased-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/ae2_fluix/fluix_dots",
+    "standard_horizontal": "chiselcompat:block/ae2_fluix/fluix_dots_encased-ctm_horizontal",
+    "standard_none": "chiselcompat:block/ae2_fluix/fluix_dots_encased",
+    "standard_vertical": "chiselcompat:block/ae2_fluix/fluix_dots_encased-ctm_vertical"
+  }
+}

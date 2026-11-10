@@ -1,0 +1,56 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/silver",
+      "required": false
+    },
+    {
+      "id": "alltheores:silver_block",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silver_125",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silver_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silver_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silver_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silver_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silver_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silver_thermal",
+      "required": false
+    },
+    {
+      "id": "ftbmaterials:silver_block",
+      "required": false
+    },
+    {
+      "id": "occultism:silver_block",
+      "required": false
+    },
+    {
+      "id": "railcraft:silver_block",
+      "required": false
+    },
+    {
+      "id": "silentgems:silver_block",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/fluorite",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:fluorite_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:fluorite_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:fluorite_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:fluorite_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:fluorite_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:fluorite_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:fluorite_zelda",
+      "required": false
+    }
+  ]
+}

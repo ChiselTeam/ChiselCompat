@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:registered",
+      "registry": "minecraft:block",
+      "value": "chiselcompat:cobalt_machine"
+    }
+  ],
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "chiselcompat:cobalt_machine"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "chiselcompat:blocks/cobalt_machine"
+}

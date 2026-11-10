@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/enderium",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:enderium_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:enderium_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:enderium_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:enderium_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:enderium_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:enderium_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:enderium_zelda",
+      "required": false
+    }
+  ]
+}

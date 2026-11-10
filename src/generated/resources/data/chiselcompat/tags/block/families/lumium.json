@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/lumium",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lumium_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lumium_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lumium_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lumium_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lumium_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lumium_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lumium_zelda",
+      "required": false
+    }
+  ]
+}

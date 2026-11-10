@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/ae2_sky_stone/sky_stone_scaffold_encased",
+    "particle": "chiselcompat:block/ae2_sky_stone/sky_stone_scaffold_encased",
+    "standard_corner": "chiselcompat:block/ae2_sky_stone/sky_stone_scaffold_encased-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/ae2_sky_stone/sky_stone_scaffold",
+    "standard_horizontal": "chiselcompat:block/ae2_sky_stone/sky_stone_scaffold_encased-ctm_horizontal",
+    "standard_none": "chiselcompat:block/ae2_sky_stone/sky_stone_scaffold_encased",
+    "standard_vertical": "chiselcompat:block/ae2_sky_stone/sky_stone_scaffold_encased-ctm_vertical"
+  }
+}

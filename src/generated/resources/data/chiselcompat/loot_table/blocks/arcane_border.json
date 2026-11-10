@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:registered",
+      "registry": "minecraft:block",
+      "value": "chiselcompat:arcane_border"
+    }
+  ],
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "chiselcompat:arcane_border"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "chiselcompat:blocks/arcane_border"
+}

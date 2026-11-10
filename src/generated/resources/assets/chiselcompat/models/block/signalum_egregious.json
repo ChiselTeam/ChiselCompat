@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/signalum/signalum_egregious",
+    "particle": "chiselcompat:block/signalum/signalum_egregious",
+    "standard_corner": "chiselcompat:block/signalum/signalum_egregious-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/signalum/signalum_egregious-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/signalum/signalum_egregious-ctm_horizontal",
+    "standard_none": "chiselcompat:block/signalum/signalum_egregious",
+    "standard_vertical": "chiselcompat:block/signalum/signalum_egregious-ctm_vertical"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "textures": {
+    "particle": "chiselcompat:block/dn_stained_glass_persimmon/dn_stained_glass_persimmon_round",
+    "standard_corner": "chiselcompat:block/dn_stained_glass_persimmon/dn_stained_glass_persimmon_panel-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/dn_stained_glass_persimmon/dn_stained_glass_persimmon_borderless",
+    "standard_horizontal": "chiselcompat:block/dn_stained_glass_persimmon/dn_stained_glass_persimmon_panel-ctm_horizontal",
+    "standard_none": "chiselcompat:block/dn_stained_glass_persimmon/dn_stained_glass_persimmon_round",
+    "standard_vertical": "chiselcompat:block/dn_stained_glass_persimmon/dn_stained_glass_persimmon_panel-ctm_vertical"
+  }
+}

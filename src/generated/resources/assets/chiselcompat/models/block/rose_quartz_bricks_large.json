@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/rose_quartz/rose_quartz_bricks_large",
+    "multiblock_2x2_bottom_left": "chiselcompat:block/rose_quartz/rose_quartz_bricks_large-2x2_top_right",
+    "multiblock_2x2_bottom_right": "chiselcompat:block/rose_quartz/rose_quartz_bricks_large",
+    "multiblock_2x2_top_left": "chiselcompat:block/rose_quartz/rose_quartz_bricks_large",
+    "multiblock_2x2_top_right": "chiselcompat:block/rose_quartz/rose_quartz_bricks_large-2x2_top_right",
+    "particle": "chiselcompat:block/rose_quartz/rose_quartz_bricks_large"
+  }
+}

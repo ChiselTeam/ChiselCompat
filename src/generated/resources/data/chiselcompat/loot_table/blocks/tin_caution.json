@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:registered",
+      "registry": "minecraft:block",
+      "value": "chiselcompat:tin_caution"
+    }
+  ],
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "chiselcompat:tin_caution"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "chiselcompat:blocks/tin_caution"
+}

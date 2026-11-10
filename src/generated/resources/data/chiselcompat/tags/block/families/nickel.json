@@ -1,0 +1,52 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/nickel",
+      "required": false
+    },
+    {
+      "id": "alltheores:nickel_block",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:nickel_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:nickel_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:nickel_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:nickel_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:nickel_machine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:nickel_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:nickel_thermal",
+      "required": false
+    },
+    {
+      "id": "ftbmaterials:nickel_block",
+      "required": false
+    },
+    {
+      "id": "oritech:nickel",
+      "required": false
+    },
+    {
+      "id": "railcraft:nickel_block",
+      "required": false
+    }
+  ]
+}

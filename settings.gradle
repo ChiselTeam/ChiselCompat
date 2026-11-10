@@ -1,0 +1,13 @@
+pluginManagement {
+    repositories { gradlePluginPortal() }
+}
+rootProject.name = 'ChiselCompat'
+
+// Point this at a separate Chisel 26.3 checkout, never an older Minecraft branch.
+if (providers.gradleProperty('chisel_project').isPresent()) {
+    includeBuild(providers.gradleProperty('chisel_project').get()) {
+        dependencySubstitution {
+            substitute module('maven.modrinth:chisel-3') using project(':')
+        }
+    }
+}

@@ -1,0 +1,516 @@
+{
+  "values": [
+    {
+      "id": "allthemodium:ancient_stone",
+      "required": false
+    },
+    {
+      "id": "allthemodium:ancient_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "allthemodium:chiseled_ancient_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "allthemodium:polished_ancient_stone",
+      "required": false
+    },
+    {
+      "id": "allthemodium:smooth_ancient_stone",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_array",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_border_square",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_border_square_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_braid",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_braid_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_bricks_cracked",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_bricks_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_bricks_indent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_bricks_inlayed",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_bricks_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_bricks_large_rough",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_bricks_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_bricks_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_bricks_soft",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_bricks_solid",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_bricks_square",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_bricks_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_bricks_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_chaotic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_chaotic_medium",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_chaotic_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_checker",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_checker_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_chisel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_chisel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_chisel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_chisel_4",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_chisel_5",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_chisel_6",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_circular",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_cobble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_cuts",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_dots",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_dots_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_facet",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_facet_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_facet_small_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_frame",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_french_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_french_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_gem",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_gem_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_gem_1_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_gem_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_gem_2_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_gem_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_gem_3_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_heart",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_herringbone",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_herringbone_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_indent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_jellybean",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_large_bricks",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_layers",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_layers_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_lodestone",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_lodestone_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_meander_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_meander_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_medallion",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_medallion_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_mosaic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_ornate_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_parquet",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_parquet_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_pillar",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_pillar_basic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_pillar_basic_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_pillar_basic_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_pillar_basic_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_pillar_basic_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_pillar_classic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_pillar_classic_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_pillar_ionic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_pillar_ionic_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_pillar_ionic_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_pillar_ionic_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_pillar_ionic_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_pillar_large_basic_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_pillar_large_ionic_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_pillar_meander",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_pillar_meander_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_pillar_meander_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_pillar_meander_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_pillar_meander_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_plank",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_plank_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_plate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_plate_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_plating",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_polished",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_polished_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_prism",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_raw",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_road",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_scaffold_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_shiny",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_shiny_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_skull_creeper",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_skull_skeleton",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_slab",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_slanted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_star",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_stripes",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_stripes_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_tiles",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_tiles_inlayed",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_tiles_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_tiles_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_tiles_small_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_twisted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_waves",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_weaver",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ancient_stone_zag",
+      "required": false
+    }
+  ]
+}

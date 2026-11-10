@@ -1,0 +1,11 @@
+{
+  "neoforge:definition_type": "ctm:connected_texture_model",
+  "connected_faces": [
+    "all"
+  ],
+  "model_location": "chiselcompat:block/dn_stained_glass_wine_mosaic_1",
+  "variant": {
+    "block": "chiselcompat:dn_stained_glass_wine_mosaic_1",
+    "kind": "standard"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/ae2_certus/certus_bricks_encased",
+    "particle": "chiselcompat:block/ae2_certus/certus_bricks_encased",
+    "standard_corner": "chiselcompat:block/ae2_certus/certus_bricks_encased-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/ae2_certus/certus_bricks_solid",
+    "standard_horizontal": "chiselcompat:block/ae2_certus/certus_bricks_encased-ctm_horizontal",
+    "standard_none": "chiselcompat:block/ae2_certus/certus_bricks_encased",
+    "standard_vertical": "chiselcompat:block/ae2_certus/certus_bricks_encased-ctm_vertical"
+  }
+}

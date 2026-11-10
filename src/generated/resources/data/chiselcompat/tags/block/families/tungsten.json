@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/tungsten",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tungsten_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tungsten_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tungsten_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tungsten_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tungsten_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tungsten_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tungsten_zelda",
+      "required": false
+    }
+  ]
+}

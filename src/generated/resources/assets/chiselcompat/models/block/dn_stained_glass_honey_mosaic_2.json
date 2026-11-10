@@ -1,0 +1,10 @@
+{
+  "textures": {
+    "particle": "chiselcompat:block/dn_stained_glass_honey/dn_stained_glass_honey_mosaic_2",
+    "standard_corner": "chiselcompat:block/dn_stained_glass_honey/dn_stained_glass_honey_mosaic_2-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/dn_stained_glass_honey/dn_stained_glass_honey_mosaic_2-ctm_corner",
+    "standard_horizontal": "chiselcompat:block/dn_stained_glass_honey/dn_stained_glass_honey_mosaic_2-ctm_corner",
+    "standard_none": "chiselcompat:block/dn_stained_glass_honey/dn_stained_glass_honey_mosaic_2",
+    "standard_vertical": "chiselcompat:block/dn_stained_glass_honey/dn_stained_glass_honey_mosaic_2"
+  }
+}

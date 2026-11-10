@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:registered",
+      "registry": "minecraft:block",
+      "value": "chiselcompat:rose_quartz_dots_encased"
+    }
+  ],
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "chiselcompat:rose_quartz_dots_encased"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "chiselcompat:blocks/rose_quartz_dots_encased"
+}

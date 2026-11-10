@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:registered",
+      "registry": "minecraft:block",
+      "value": "chiselcompat:zinc_caution"
+    }
+  ],
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "chiselcompat:zinc_caution"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "chiselcompat:blocks/zinc_caution"
+}

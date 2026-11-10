@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/sapphire/sapphire_egregious",
+    "particle": "chiselcompat:block/sapphire/sapphire_egregious",
+    "standard_corner": "chiselcompat:block/sapphire/sapphire_egregious-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/sapphire/sapphire_egregious-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/sapphire/sapphire_egregious-ctm_horizontal",
+    "standard_none": "chiselcompat:block/sapphire/sapphire_egregious",
+    "standard_vertical": "chiselcompat:block/sapphire/sapphire_egregious-ctm_vertical"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/dn_concrete_navy/dn_concrete_navy_weaver",
+    "particle": "chiselcompat:block/dn_concrete_navy/dn_concrete_navy_weaver",
+    "standard_corner": "chiselcompat:block/dn_concrete_navy/dn_concrete_navy_weaver-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/dn_concrete_navy/dn_concrete_navy_weaver-ctm_corner",
+    "standard_horizontal": "chiselcompat:block/dn_concrete_navy/dn_concrete_navy_weaver-ctm_horizontal",
+    "standard_none": "chiselcompat:block/dn_concrete_navy/dn_concrete_navy_weaver",
+    "standard_vertical": "chiselcompat:block/dn_concrete_navy/dn_concrete_navy_weaver-ctm_vertical"
+  }
+}

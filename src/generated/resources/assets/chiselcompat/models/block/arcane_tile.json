@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/tc_arcane_stone/arcane_tile",
+    "particle": "chiselcompat:block/tc_arcane_stone/arcane_tile",
+    "standard_corner": "chiselcompat:block/tc_arcane_stone/arcane_tile-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/tc_arcane_stone/arcane_tile-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/tc_arcane_stone/arcane_tile-ctm_horizontal",
+    "standard_none": "chiselcompat:block/tc_arcane_stone/arcane_tile",
+    "standard_vertical": "chiselcompat:block/tc_arcane_stone/arcane_tile-ctm_vertical"
+  }
+}

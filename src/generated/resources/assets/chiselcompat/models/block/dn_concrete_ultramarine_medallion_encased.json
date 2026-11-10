@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/dn_concrete_ultramarine/dn_concrete_ultramarine_medallion_encased",
+    "particle": "chiselcompat:block/dn_concrete_ultramarine/dn_concrete_ultramarine_medallion_encased",
+    "standard_corner": "chiselcompat:block/dn_concrete_ultramarine/dn_concrete_ultramarine_medallion_encased-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/dn_concrete_ultramarine/dn_concrete_ultramarine_medallion",
+    "standard_horizontal": "chiselcompat:block/dn_concrete_ultramarine/dn_concrete_ultramarine_medallion_encased-ctm_horizontal",
+    "standard_none": "chiselcompat:block/dn_concrete_ultramarine/dn_concrete_ultramarine_medallion_encased",
+    "standard_vertical": "chiselcompat:block/dn_concrete_ultramarine/dn_concrete_ultramarine_medallion_encased-ctm_vertical"
+  }
+}

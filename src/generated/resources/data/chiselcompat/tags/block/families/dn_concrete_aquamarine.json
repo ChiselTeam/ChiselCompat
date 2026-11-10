@@ -1,0 +1,516 @@
+{
+  "values": [
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_array",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_border_square",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_border_square_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_braid",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_braid_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_bricks_cracked",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_bricks_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_bricks_indent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_bricks_inlayed",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_bricks_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_bricks_large_rough",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_bricks_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_bricks_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_bricks_soft",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_bricks_solid",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_bricks_square",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_bricks_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_bricks_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_caution_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_chaotic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_chaotic_medium",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_chaotic_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_checker",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_checker_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_chisel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_chisel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_chisel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_chisel_4",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_chisel_5",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_chisel_6",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_circular",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_cobble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_cracked",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_cuts",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_diamond_plating_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_dots",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_dots_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_facet",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_facet_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_facet_small_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_frame",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_french_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_french_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_gem",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_gem_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_gem_1_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_gem_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_gem_2_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_gem_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_gem_3_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_heart",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_herringbone",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_herringbone_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_indent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_jellybean",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_layers",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_layers_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_lodestone",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_lodestone_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_meander_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_meander_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_medallion",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_medallion_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_mesh_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_mosaic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_ornate_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_parquet",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_parquet_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_pillar",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_pillar_basic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_pillar_basic_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_pillar_basic_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_pillar_basic_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_pillar_basic_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_pillar_classic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_pillar_classic_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_pillar_ionic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_pillar_ionic_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_pillar_ionic_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_pillar_ionic_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_pillar_ionic_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_pillar_large_basic_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_pillar_large_ionic_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_pillar_meander",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_pillar_meander_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_pillar_meander_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_pillar_meander_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_pillar_meander_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_plank",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_plank_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_plate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_plate_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_plating",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_plumbing_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_polished",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_polished_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_prism",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_raw",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_road",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_scaffold_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_shiny",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_shiny_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_skull_creeper",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_skull_skeleton",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_slab",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_slanted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_star",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_stripes",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_stripes_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_tiles",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_tiles_inlayed",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_tiles_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_tiles_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_tiles_small_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_twisted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_waves",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_weaver",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_aquamarine_zag",
+      "required": false
+    },
+    {
+      "id": "dyenamics:aquamarine_concrete",
+      "required": false
+    }
+  ]
+}

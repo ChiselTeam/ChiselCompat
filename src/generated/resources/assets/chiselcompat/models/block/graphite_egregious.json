@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/graphite/graphite_egregious",
+    "particle": "chiselcompat:block/graphite/graphite_egregious",
+    "standard_corner": "chiselcompat:block/graphite/graphite_egregious-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/graphite/graphite_egregious-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/graphite/graphite_egregious-ctm_horizontal",
+    "standard_none": "chiselcompat:block/graphite/graphite_egregious",
+    "standard_vertical": "chiselcompat:block/graphite/graphite_egregious-ctm_vertical"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/charcoal/charcoal_gem_2_connected",
+    "particle": "chiselcompat:block/charcoal/charcoal_gem_2_connected",
+    "standard_corner": "chiselcompat:block/charcoal/charcoal_gem_2_connected-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/charcoal/charcoal_border_square-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/charcoal/charcoal_gem_2_connected-ctm_horizontal",
+    "standard_none": "chiselcompat:block/charcoal/charcoal_gem_2_connected",
+    "standard_vertical": "chiselcompat:block/charcoal/charcoal_gem_2_connected-ctm_vertical"
+  }
+}

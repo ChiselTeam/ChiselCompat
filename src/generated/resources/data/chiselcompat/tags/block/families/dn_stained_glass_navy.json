@@ -1,0 +1,116 @@
+{
+  "values": [
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_borderless",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_tile",
+      "required": false
+    },
+    {
+      "id": "dyenamics:navy_stained_glass",
+      "required": false
+    }
+  ]
+}

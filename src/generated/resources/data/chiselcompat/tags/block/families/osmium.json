@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/osmium",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:osmium_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:osmium_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:osmium_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:osmium_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:osmium_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:osmium_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:osmium_zelda",
+      "required": false
+    }
+  ]
+}

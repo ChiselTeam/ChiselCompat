@@ -1,0 +1,112 @@
+{
+  "values": [
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_tile",
+      "required": false
+    }
+  ]
+}

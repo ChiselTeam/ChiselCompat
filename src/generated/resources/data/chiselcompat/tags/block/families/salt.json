@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/salt",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:salt_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:salt_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:salt_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:salt_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:salt_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:salt_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:salt_zelda",
+      "required": false
+    }
+  ]
+}

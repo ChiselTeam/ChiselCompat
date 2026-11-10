@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/silicon",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silicon_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silicon_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silicon_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silicon_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silicon_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silicon_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silicon_zelda",
+      "required": false
+    }
+  ]
+}

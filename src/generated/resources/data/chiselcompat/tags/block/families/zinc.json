@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/zinc",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:zinc_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:zinc_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:zinc_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:zinc_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:zinc_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:zinc_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:zinc_zelda",
+      "required": false
+    }
+  ]
+}

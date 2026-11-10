@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/ae2_sky_stone/sky_stone_waves",
+    "multiblock_2x2_bottom_left": "chiselcompat:block/ae2_sky_stone/sky_stone_waves-2x2_bottom_left",
+    "multiblock_2x2_bottom_right": "chiselcompat:block/ae2_sky_stone/sky_stone_waves-2x2_bottom_right",
+    "multiblock_2x2_top_left": "chiselcompat:block/ae2_sky_stone/sky_stone_waves",
+    "multiblock_2x2_top_right": "chiselcompat:block/ae2_sky_stone/sky_stone_waves-2x2_top_right",
+    "particle": "chiselcompat:block/ae2_sky_stone/sky_stone_waves"
+  }
+}

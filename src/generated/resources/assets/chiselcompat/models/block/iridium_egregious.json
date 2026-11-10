@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/iridium/iridium_egregious",
+    "particle": "chiselcompat:block/iridium/iridium_egregious",
+    "standard_corner": "chiselcompat:block/iridium/iridium_egregious-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/iridium/iridium_egregious-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/iridium/iridium_egregious-ctm_horizontal",
+    "standard_none": "chiselcompat:block/iridium/iridium_egregious",
+    "standard_vertical": "chiselcompat:block/iridium/iridium_egregious-ctm_vertical"
+  }
+}

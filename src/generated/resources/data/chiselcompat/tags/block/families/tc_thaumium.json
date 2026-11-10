@@ -1,0 +1,52 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/thaumium",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_bevel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_block",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_bricks",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_chunks",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_lattice",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_ornate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_planks",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_runes",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_runes_purple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_totem",
+      "required": false
+    }
+  ]
+}

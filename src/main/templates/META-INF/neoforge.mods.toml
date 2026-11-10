@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="${mod_authors}"
+description="${mod_description}"
+credits="Compatibility definitions and textures copied from Chisel. Original art credits are retained in LICENSE and README.md."
+[[dependencies.chiselcompat]]
+modId="minecraft"
+type="required"
+versionRange="${minecraft_version_range}"
+side="BOTH"
+[[dependencies.chiselcompat]]
+modId="neoforge"
+type="required"
+versionRange="${neo_version_range}"
+side="BOTH"
+[[dependencies.chiselcompat]]
+modId="chisel"
+type="required"
+versionRange="${chisel_version_range}"
+ordering="AFTER"
+side="BOTH"

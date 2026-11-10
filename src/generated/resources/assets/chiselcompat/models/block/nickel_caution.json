@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/nickel/nickel_caution",
+    "particle": "chiselcompat:block/nickel/nickel_caution",
+    "standard_corner": "chiselcompat:block/nickel/nickel_caution-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/nickel/nickel_caution-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/nickel/nickel_caution-ctm_horizontal",
+    "standard_none": "chiselcompat:block/nickel/nickel_caution",
+    "standard_vertical": "chiselcompat:block/nickel/nickel_caution-ctm_vertical"
+  }
+}

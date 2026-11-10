@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "all": "chiselcompat:block/ae2_fluix/fluix_meander_horizontal",
+    "bottom": "chiselcompat:block/ae2_fluix/fluix_meander_horizontal-top",
+    "horizontal_both": "chiselcompat:block/ae2_fluix/fluix_meander_horizontal-horizontal_both",
+    "horizontal_left": "chiselcompat:block/ae2_fluix/fluix_meander_horizontal-horizontal_left",
+    "horizontal_none": "chiselcompat:block/ae2_fluix/fluix_meander_horizontal-horizontal_none",
+    "horizontal_right": "chiselcompat:block/ae2_fluix/fluix_meander_horizontal-horizontal_right",
+    "particle": "chiselcompat:block/ae2_fluix/fluix_meander_horizontal",
+    "side": "chiselcompat:block/ae2_fluix/fluix_meander_horizontal",
+    "top": "chiselcompat:block/ae2_fluix/fluix_meander_horizontal-top"
+  }
+}

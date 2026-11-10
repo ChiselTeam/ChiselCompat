@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/dn_concrete_cherenkov/dn_concrete_cherenkov_plumbing_encased",
+    "particle": "chiselcompat:block/dn_concrete_cherenkov/dn_concrete_cherenkov_plumbing_encased",
+    "standard_corner": "chiselcompat:block/dn_concrete_cherenkov/dn_concrete_cherenkov_plumbing_encased-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/concrete_red/concrete_red_plumbing_encased-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/dn_concrete_cherenkov/dn_concrete_cherenkov_plumbing_encased-ctm_horizontal",
+    "standard_none": "chiselcompat:block/dn_concrete_cherenkov/dn_concrete_cherenkov_plumbing_encased",
+    "standard_vertical": "chiselcompat:block/dn_concrete_cherenkov/dn_concrete_cherenkov_plumbing_encased-ctm_vertical"
+  }
+}

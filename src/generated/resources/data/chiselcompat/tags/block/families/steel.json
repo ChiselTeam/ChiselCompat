@@ -1,0 +1,60 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/steel",
+      "required": false
+    },
+    {
+      "id": "alltheores:steel_block",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:steel_125",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:steel_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:steel_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:steel_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:steel_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:steel_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:steel_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:steel_thermal",
+      "required": false
+    },
+    {
+      "id": "energizedpower:steel_block",
+      "required": false
+    },
+    {
+      "id": "ftbmaterials:steel_block",
+      "required": false
+    },
+    {
+      "id": "oritech:steel",
+      "required": false
+    },
+    {
+      "id": "railcraft:steel_block",
+      "required": false
+    }
+  ]
+}

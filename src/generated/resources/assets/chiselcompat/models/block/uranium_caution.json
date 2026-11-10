@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/uranium/uranium_caution",
+    "particle": "chiselcompat:block/uranium/uranium_caution",
+    "standard_corner": "chiselcompat:block/uranium/uranium_caution-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/uranium/uranium_caution-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/uranium/uranium_caution-ctm_horizontal",
+    "standard_none": "chiselcompat:block/uranium/uranium_caution",
+    "standard_vertical": "chiselcompat:block/uranium/uranium_caution-ctm_vertical"
+  }
+}

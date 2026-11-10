@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/tc_thaumium/thaumium_bricks",
+    "particle": "chiselcompat:block/tc_thaumium/thaumium_bricks",
+    "standard_corner": "chiselcompat:block/tc_thaumium/thaumium_bricks-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/tc_thaumium/thaumium_bricks-ctm_corner",
+    "standard_horizontal": "chiselcompat:block/tc_thaumium/thaumium_bricks",
+    "standard_none": "chiselcompat:block/tc_thaumium/thaumium_bricks",
+    "standard_vertical": "chiselcompat:block/tc_thaumium/thaumium_bricks-ctm_corner"
+  }
+}

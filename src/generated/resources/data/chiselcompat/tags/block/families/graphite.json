@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/graphite",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:graphite_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:graphite_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:graphite_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:graphite_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:graphite_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:graphite_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:graphite_zelda",
+      "required": false
+    }
+  ]
+}

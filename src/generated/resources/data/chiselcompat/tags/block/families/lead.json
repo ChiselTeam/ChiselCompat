@@ -1,0 +1,48 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/lead",
+      "required": false
+    },
+    {
+      "id": "alltheores:lead_block",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lead_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lead_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lead_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lead_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lead_machine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lead_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lead_thermal",
+      "required": false
+    },
+    {
+      "id": "ftbmaterials:lead_block",
+      "required": false
+    },
+    {
+      "id": "railcraft:lead_block",
+      "required": false
+    }
+  ]
+}

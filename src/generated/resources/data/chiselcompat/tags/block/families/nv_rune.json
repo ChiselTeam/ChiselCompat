@@ -1,0 +1,56 @@
+{
+  "values": [
+    {
+      "id": "chiselcompat:neovitae_arranged",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:neovitae_bricks",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:neovitae_carved",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:neovitae_carved_radial",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:neovitae_classic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:neovitae_classic_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:neovitae_diagonal_bricks",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:neovitae_diagonal_bricks_0",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:neovitae_diagonal_bricks_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:neovitae_diagonal_bricks_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:neovitae_diagonal_bricks_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:neovitae_tiles",
+      "required": false
+    },
+    {
+      "id": "neovitae:rune_blank",
+      "required": false
+    }
+  ]
+}

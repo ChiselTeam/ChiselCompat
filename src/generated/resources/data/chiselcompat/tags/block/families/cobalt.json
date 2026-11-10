@@ -1,0 +1,32 @@
+{
+  "values": [
+    {
+      "id": "chiselcompat:cobalt_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:cobalt_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:cobalt_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:cobalt_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:cobalt_machine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:cobalt_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:cobalt_thermal",
+      "required": false
+    }
+  ]
+}

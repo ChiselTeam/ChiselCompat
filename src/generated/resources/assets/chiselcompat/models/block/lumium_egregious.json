@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/lumium/lumium_egregious",
+    "particle": "chiselcompat:block/lumium/lumium_egregious",
+    "standard_corner": "chiselcompat:block/lumium/lumium_egregious-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/lumium/lumium_egregious-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/lumium/lumium_egregious-ctm_horizontal",
+    "standard_none": "chiselcompat:block/lumium/lumium_egregious",
+    "standard_vertical": "chiselcompat:block/lumium/lumium_egregious-ctm_vertical"
+  }
+}

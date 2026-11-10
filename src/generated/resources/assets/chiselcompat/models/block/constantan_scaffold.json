@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/constantan/constantan_scaffold",
+    "particle": "chiselcompat:block/constantan/constantan_scaffold",
+    "standard_corner": "chiselcompat:block/constantan/constantan_scaffold-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/constantan/constantan_scaffold-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/constantan/constantan_scaffold-ctm_horizontal",
+    "standard_none": "chiselcompat:block/constantan/constantan_scaffold",
+    "standard_vertical": "chiselcompat:block/constantan/constantan_scaffold-ctm_vertical"
+  }
+}

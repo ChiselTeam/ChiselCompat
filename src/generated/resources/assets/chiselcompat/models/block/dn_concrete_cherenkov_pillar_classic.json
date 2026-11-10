@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "chiselcompat:block/dn_concrete_cherenkov/dn_concrete_cherenkov_pillar_classic-top",
+    "side": "chiselcompat:block/dn_concrete_cherenkov/dn_concrete_cherenkov_pillar_classic-side",
+    "top": "chiselcompat:block/dn_concrete_cherenkov/dn_concrete_cherenkov_pillar_classic-top"
+  }
+}

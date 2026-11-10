@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/ruby",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ruby_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ruby_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ruby_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ruby_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ruby_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ruby_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ruby_zelda",
+      "required": false
+    }
+  ]
+}

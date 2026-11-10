@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/plutonium",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:plutonium_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:plutonium_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:plutonium_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:plutonium_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:plutonium_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:plutonium_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:plutonium_zelda",
+      "required": false
+    }
+  ]
+}

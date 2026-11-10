@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/brass",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:brass_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:brass_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:brass_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:brass_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:brass_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:brass_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:brass_zelda",
+      "required": false
+    }
+  ]
+}

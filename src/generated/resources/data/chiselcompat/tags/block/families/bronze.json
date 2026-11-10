@@ -1,0 +1,44 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/bronze",
+      "required": false
+    },
+    {
+      "id": "alltheores:bronze_block",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:bronze_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:bronze_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:bronze_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:bronze_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:bronze_machine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:bronze_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:bronze_thermal",
+      "required": false
+    },
+    {
+      "id": "ftbmaterials:bronze_block",
+      "required": false
+    }
+  ]
+}

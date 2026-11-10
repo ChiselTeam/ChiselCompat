@@ -1,0 +1,516 @@
+{
+  "values": [
+    {
+      "id": "chiselcompat:dn_concrete_amber_array",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_border_square",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_border_square_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_braid",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_braid_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_bricks_cracked",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_bricks_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_bricks_indent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_bricks_inlayed",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_bricks_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_bricks_large_rough",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_bricks_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_bricks_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_bricks_soft",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_bricks_solid",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_bricks_square",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_bricks_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_bricks_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_caution_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_chaotic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_chaotic_medium",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_chaotic_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_checker",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_checker_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_chisel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_chisel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_chisel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_chisel_4",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_chisel_5",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_chisel_6",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_circular",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_cobble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_cracked",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_cuts",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_diamond_plating_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_dots",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_dots_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_facet",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_facet_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_facet_small_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_frame",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_french_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_french_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_gem",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_gem_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_gem_1_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_gem_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_gem_2_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_gem_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_gem_3_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_heart",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_herringbone",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_herringbone_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_indent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_jellybean",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_layers",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_layers_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_lodestone",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_lodestone_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_meander_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_meander_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_medallion",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_medallion_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_mesh_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_mosaic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_ornate_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_parquet",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_parquet_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_pillar",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_pillar_basic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_pillar_basic_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_pillar_basic_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_pillar_basic_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_pillar_basic_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_pillar_classic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_pillar_classic_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_pillar_ionic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_pillar_ionic_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_pillar_ionic_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_pillar_ionic_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_pillar_ionic_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_pillar_large_basic_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_pillar_large_ionic_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_pillar_meander",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_pillar_meander_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_pillar_meander_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_pillar_meander_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_pillar_meander_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_plank",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_plank_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_plate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_plate_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_plating",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_plumbing_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_polished",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_polished_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_prism",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_raw",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_road",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_scaffold_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_shiny",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_shiny_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_skull_creeper",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_skull_skeleton",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_slab",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_slanted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_star",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_stripes",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_stripes_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_tiles",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_tiles_inlayed",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_tiles_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_tiles_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_tiles_small_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_twisted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_waves",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_weaver",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_amber_zag",
+      "required": false
+    },
+    {
+      "id": "dyenamics:amber_concrete",
+      "required": false
+    }
+  ]
+}

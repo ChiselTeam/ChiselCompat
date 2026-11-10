@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:block/cube_bottom_top_inner_faces",
+  "textures": {
+    "all": "chiselcompat:block/rose_quartz/rose_quartz_pillar_basic_plain-side",
+    "bottom": "chiselcompat:block/rose_quartz/rose_quartz_pillar_basic-top",
+    "particle": "chiselcompat:block/rose_quartz/rose_quartz_pillar_basic_plain-side",
+    "side": "chiselcompat:block/rose_quartz/rose_quartz_pillar_basic_plain-side",
+    "top": "chiselcompat:block/rose_quartz/rose_quartz_pillar_basic-top",
+    "vertical_both": "chiselcompat:block/rose_quartz/rose_quartz_pillar_basic_plain-vertical_both",
+    "vertical_bottom": "chiselcompat:block/rose_quartz/rose_quartz_pillar_basic_plain-vertical_bottom",
+    "vertical_none": "chiselcompat:block/rose_quartz/rose_quartz_pillar_basic_plain-side",
+    "vertical_top": "chiselcompat:block/rose_quartz/rose_quartz_pillar_basic_plain-vertical_top"
+  }
+}

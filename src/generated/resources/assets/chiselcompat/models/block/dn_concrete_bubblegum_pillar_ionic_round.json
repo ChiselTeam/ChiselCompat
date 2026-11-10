@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:block/cube_bottom_top_inner_faces",
+  "textures": {
+    "all": "chiselcompat:block/dn_concrete_bubblegum/dn_concrete_bubblegum_pillar_ionic-side",
+    "bottom": "chiselcompat:block/dn_concrete_bubblegum/dn_concrete_bubblegum_pillar_basic-top",
+    "particle": "chiselcompat:block/dn_concrete_bubblegum/dn_concrete_bubblegum_pillar_ionic-side",
+    "side": "chiselcompat:block/dn_concrete_bubblegum/dn_concrete_bubblegum_pillar_ionic-side",
+    "top": "chiselcompat:block/dn_concrete_bubblegum/dn_concrete_bubblegum_pillar_basic-top",
+    "vertical_both": "chiselcompat:block/dn_concrete_bubblegum/dn_concrete_bubblegum_pillar_basic_round-vertical_both",
+    "vertical_bottom": "chiselcompat:block/dn_concrete_bubblegum/dn_concrete_bubblegum_pillar_ionic_round-vertical_bottom",
+    "vertical_none": "chiselcompat:block/dn_concrete_bubblegum/dn_concrete_bubblegum_pillar_ionic-side",
+    "vertical_top": "chiselcompat:block/dn_concrete_bubblegum/dn_concrete_bubblegum_pillar_ionic_round-vertical_top"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/ae2_sky_stone/sky_stone_gem_3",
+    "particle": "chiselcompat:block/ae2_sky_stone/sky_stone_gem_3",
+    "standard_corner": "chiselcompat:block/ae2_sky_stone/sky_stone_gem_3_connected-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/ae2_sky_stone/sky_stone_gem_3_connected-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/ae2_sky_stone/sky_stone_gem_3_connected-ctm_horizontal",
+    "standard_none": "chiselcompat:block/ae2_sky_stone/sky_stone_gem_3",
+    "standard_vertical": "chiselcompat:block/ae2_sky_stone/sky_stone_gem_3_connected-ctm_vertical"
+  }
+}

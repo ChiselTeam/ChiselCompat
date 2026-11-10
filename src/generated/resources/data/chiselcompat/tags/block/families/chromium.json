@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/chromium",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:chromium_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:chromium_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:chromium_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:chromium_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:chromium_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:chromium_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:chromium_zelda",
+      "required": false
+    }
+  ]
+}

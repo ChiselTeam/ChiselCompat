@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/charcoal/charcoal_herringbone_encased",
+    "particle": "chiselcompat:block/charcoal/charcoal_herringbone_encased",
+    "standard_corner": "chiselcompat:block/charcoal/charcoal_herringbone_encased-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/charcoal/charcoal_herringbone",
+    "standard_horizontal": "chiselcompat:block/charcoal/charcoal_herringbone_encased-ctm_horizontal",
+    "standard_none": "chiselcompat:block/charcoal/charcoal_herringbone_encased",
+    "standard_vertical": "chiselcompat:block/charcoal/charcoal_herringbone_encased-ctm_vertical"
+  }
+}

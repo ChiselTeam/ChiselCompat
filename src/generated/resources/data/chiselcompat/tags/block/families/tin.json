@@ -1,0 +1,56 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/tin",
+      "required": false
+    },
+    {
+      "id": "alltheores:tin_block",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tin_125",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tin_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tin_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tin_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tin_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tin_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tin_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tin_thermal",
+      "required": false
+    },
+    {
+      "id": "energizedpower:tin_block",
+      "required": false
+    },
+    {
+      "id": "ftbmaterials:tin_block",
+      "required": false
+    },
+    {
+      "id": "railcraft:tin_block",
+      "required": false
+    }
+  ]
+}

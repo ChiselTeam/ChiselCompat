@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/atm_ancient_stone/ancient_stone_gem_1",
+    "particle": "chiselcompat:block/atm_ancient_stone/ancient_stone_gem_1",
+    "standard_corner": "chiselcompat:block/atm_ancient_stone/ancient_stone_gem_1_connected-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/atm_ancient_stone/ancient_stone_raw",
+    "standard_horizontal": "chiselcompat:block/atm_ancient_stone/ancient_stone_gem_1_connected-ctm_horizontal",
+    "standard_none": "chiselcompat:block/atm_ancient_stone/ancient_stone_gem_1",
+    "standard_vertical": "chiselcompat:block/atm_ancient_stone/ancient_stone_gem_1_connected-ctm_vertical"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "chiselcompat:block/tc_tallow/tallow_smooth",
+    "side": "chiselcompat:block/tc_tallow/tallow_block-side",
+    "top": "chiselcompat:block/tc_tallow/tallow_smooth"
+  }
+}

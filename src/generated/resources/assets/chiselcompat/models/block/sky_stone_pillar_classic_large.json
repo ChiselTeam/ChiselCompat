@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "chiselcompat:block/ae2_sky_stone/sky_stone_pillar_classic_large-top",
+    "side": "chiselcompat:block/ae2_sky_stone/sky_stone_pillar_classic_large-side",
+    "top": "chiselcompat:block/ae2_sky_stone/sky_stone_pillar_classic_large-top"
+  }
+}

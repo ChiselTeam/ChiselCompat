@@ -1,0 +1,5836 @@
+{
+  "values": [
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_amber_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_aquamarine_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_bubblegum_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_cherenkov_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_conifer_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_fluorescent_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_honey_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_icy_blue_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_lavender_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_maroon_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_mint_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_navy_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_peach_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_persimmon_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_rose_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_spring_green_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_ultramarine_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_oak_framed_stained_glass_wine_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_borderless",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_amber_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_borderless",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_aquamarine_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_borderless",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_bubblegum_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_borderless",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_cherenkov_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_borderless",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_conifer_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_borderless",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_fluorescent_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_borderless",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_honey_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_borderless",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_icy_blue_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_borderless",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_lavender_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_borderless",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_maroon_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_borderless",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_mint_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_borderless",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_navy_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_borderless",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_peach_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_borderless",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_persimmon_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_borderless",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_rose_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_borderless",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_spring_green_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_borderless",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_ultramarine_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_borderless",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_stained_glass_wine_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_amber_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_aquamarine_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_bubblegum_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_cherenkov_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_conifer_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_fluorescent_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_honey_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_maroon_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_mint_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_navy_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_peach_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_persimmon_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_rose_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_spring_green_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_ultramarine_tile",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_wine_tile",
+      "required": false
+    }
+  ]
+}

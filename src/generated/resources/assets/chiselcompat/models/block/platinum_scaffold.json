@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/platinum/platinum_scaffold",
+    "particle": "chiselcompat:block/platinum/platinum_scaffold",
+    "standard_corner": "chiselcompat:block/platinum/platinum_scaffold-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/platinum/platinum_scaffold-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/platinum/platinum_scaffold-ctm_horizontal",
+    "standard_none": "chiselcompat:block/platinum/platinum_scaffold",
+    "standard_vertical": "chiselcompat:block/platinum/platinum_scaffold-ctm_vertical"
+  }
+}

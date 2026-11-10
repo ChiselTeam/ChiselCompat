@@ -1,0 +1,40 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/electrum",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:electrum_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:electrum_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:electrum_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:electrum_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:electrum_machine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:electrum_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:electrum_thermal",
+      "required": false
+    },
+    {
+      "id": "ftbmaterials:electrum_block",
+      "required": false
+    }
+  ]
+}

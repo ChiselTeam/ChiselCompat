@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "id": "chiselcompat:tallow_block",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tallow_faces",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tallow_smooth",
+      "required": false
+    },
+    {
+      "id": "occultism:tallow_block",
+      "required": false
+    },
+    {
+      "id": "thaumcraft:tallow_block",
+      "required": false
+    }
+  ]
+}

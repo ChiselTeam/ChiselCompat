@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/ruby/ruby_caution",
+    "particle": "chiselcompat:block/ruby/ruby_caution",
+    "standard_corner": "chiselcompat:block/ruby/ruby_caution-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/ruby/ruby_caution-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/ruby/ruby_caution-ctm_horizontal",
+    "standard_none": "chiselcompat:block/ruby/ruby_caution",
+    "standard_vertical": "chiselcompat:block/ruby/ruby_caution-ctm_vertical"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/zinc/zinc_scaffold",
+    "particle": "chiselcompat:block/zinc/zinc_scaffold",
+    "standard_corner": "chiselcompat:block/zinc/zinc_scaffold-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/zinc/zinc_scaffold-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/zinc/zinc_scaffold-ctm_horizontal",
+    "standard_none": "chiselcompat:block/zinc/zinc_scaffold",
+    "standard_vertical": "chiselcompat:block/zinc/zinc_scaffold-ctm_vertical"
+  }
+}

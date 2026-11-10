@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/rose_quartz/rose_quartz_layers",
+    "particle": "chiselcompat:block/rose_quartz/rose_quartz_layers",
+    "standard_corner": "chiselcompat:block/rose_quartz/rose_quartz_layers_connected-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/rose_quartz/rose_quartz_layers_connected-ctm_corner",
+    "standard_horizontal": "chiselcompat:block/rose_quartz/rose_quartz_layers",
+    "standard_none": "chiselcompat:block/rose_quartz/rose_quartz_layers",
+    "standard_vertical": "chiselcompat:block/rose_quartz/rose_quartz_layers_connected-ctm_corner"
+  }
+}

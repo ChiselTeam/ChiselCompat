@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/nv_rune/neovitae_arranged",
+    "particle": "chiselcompat:block/nv_rune/neovitae_arranged",
+    "standard_corner": "chiselcompat:block/nv_rune/neovitae_arranged",
+    "standard_cornerless": "chiselcompat:block/nv_rune/neovitae_arranged-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/nv_rune/neovitae_arranged-ctm_horizontal",
+    "standard_none": "chiselcompat:block/nv_rune/neovitae_arranged",
+    "standard_vertical": "chiselcompat:block/nv_rune/neovitae_arranged-ctm_vertical"
+  }
+}

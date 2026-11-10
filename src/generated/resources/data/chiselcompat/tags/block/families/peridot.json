@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/peridot",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:peridot_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:peridot_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:peridot_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:peridot_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:peridot_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:peridot_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:peridot_zelda",
+      "required": false
+    }
+  ]
+}

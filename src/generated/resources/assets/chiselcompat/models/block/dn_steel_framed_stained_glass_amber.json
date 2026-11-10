@@ -1,0 +1,10 @@
+{
+  "textures": {
+    "particle": "chiselcompat:block/dn_steel_framed_stained_glass_amber/dn_steel_framed_stained_glass_amber",
+    "standard_corner": "chiselcompat:block/dn_steel_framed_stained_glass_amber/dn_steel_framed_stained_glass_amber-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/dn_stained_glass_amber/dn_stained_glass_amber_borderless",
+    "standard_horizontal": "chiselcompat:block/dn_steel_framed_stained_glass_amber/dn_steel_framed_stained_glass_amber-ctm_horizontal",
+    "standard_none": "chiselcompat:block/dn_steel_framed_stained_glass_amber/dn_steel_framed_stained_glass_amber",
+    "standard_vertical": "chiselcompat:block/dn_steel_framed_stained_glass_amber/dn_steel_framed_stained_glass_amber-ctm_vertical"
+  }
+}

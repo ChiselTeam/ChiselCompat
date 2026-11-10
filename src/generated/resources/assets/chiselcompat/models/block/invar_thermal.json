@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "chiselcompat:block/invar/invar_thermal-bottom",
+    "side": "chiselcompat:block/invar/invar_thermal-side",
+    "top": "chiselcompat:block/invar/invar_thermal-top"
+  }
+}

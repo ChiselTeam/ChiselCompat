@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "chiselcompat:block/nickel_crate"
+    }
+  }
+}

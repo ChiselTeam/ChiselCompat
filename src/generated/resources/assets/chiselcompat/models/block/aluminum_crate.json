@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/aluminum/aluminum_crate",
+    "particle": "chiselcompat:block/aluminum/aluminum_crate",
+    "standard_corner": "chiselcompat:block/aluminum/aluminum_crate-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/aluminum/aluminum_crate-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/aluminum/aluminum_crate-ctm_horizontal",
+    "standard_none": "chiselcompat:block/aluminum/aluminum_crate",
+    "standard_vertical": "chiselcompat:block/aluminum/aluminum_crate-ctm_vertical"
+  }
+}

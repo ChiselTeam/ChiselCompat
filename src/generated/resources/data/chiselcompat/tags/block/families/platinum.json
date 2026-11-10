@@ -1,0 +1,48 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/platinum",
+      "required": false
+    },
+    {
+      "id": "alltheores:platinum_block",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:platinum_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:platinum_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:platinum_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:platinum_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:platinum_machine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:platinum_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:platinum_thermal",
+      "required": false
+    },
+    {
+      "id": "ftbmaterials:platinum_block",
+      "required": false
+    },
+    {
+      "id": "oritech:platinum",
+      "required": false
+    }
+  ]
+}

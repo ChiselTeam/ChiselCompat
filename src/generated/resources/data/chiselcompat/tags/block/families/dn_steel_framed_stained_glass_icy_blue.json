@@ -1,0 +1,112 @@
+{
+  "values": [
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_icy_blue_tile",
+      "required": false
+    }
+  ]
+}

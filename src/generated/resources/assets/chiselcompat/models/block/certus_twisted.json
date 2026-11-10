@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "chiselcompat:block/ae2_certus/certus_twisted-top",
+    "side": "chiselcompat:block/ae2_certus/certus_twisted-side",
+    "top": "chiselcompat:block/ae2_certus/certus_twisted-top"
+  }
+}

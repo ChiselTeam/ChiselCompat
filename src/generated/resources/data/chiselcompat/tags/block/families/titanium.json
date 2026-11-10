@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/titanium",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:titanium_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:titanium_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:titanium_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:titanium_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:titanium_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:titanium_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:titanium_zelda",
+      "required": false
+    }
+  ]
+}

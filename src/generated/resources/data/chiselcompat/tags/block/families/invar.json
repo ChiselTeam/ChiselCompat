@@ -1,0 +1,48 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/invar",
+      "required": false
+    },
+    {
+      "id": "alltheores:invar_block",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:invar_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:invar_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:invar_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:invar_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:invar_machine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:invar_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:invar_thermal",
+      "required": false
+    },
+    {
+      "id": "ftbmaterials:invar_block",
+      "required": false
+    },
+    {
+      "id": "railcraft:invar_block",
+      "required": false
+    }
+  ]
+}

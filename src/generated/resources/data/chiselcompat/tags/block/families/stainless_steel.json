@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/stainless_steel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:stainless_steel_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:stainless_steel_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:stainless_steel_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:stainless_steel_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:stainless_steel_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:stainless_steel_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:stainless_steel_zelda",
+      "required": false
+    }
+  ]
+}

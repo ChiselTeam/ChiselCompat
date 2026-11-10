@@ -1,0 +1,10 @@
+{
+  "textures": {
+    "particle": "chiselcompat:block/dn_stained_glass_maroon/dn_stained_glass_maroon_bubble",
+    "standard_corner": "chiselcompat:block/dn_stained_glass_maroon/dn_stained_glass_maroon_panel-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/dn_stained_glass_maroon/dn_stained_glass_maroon_borderless",
+    "standard_horizontal": "chiselcompat:block/dn_stained_glass_maroon/dn_stained_glass_maroon_panel-ctm_horizontal",
+    "standard_none": "chiselcompat:block/dn_stained_glass_maroon/dn_stained_glass_maroon_bubble",
+    "standard_vertical": "chiselcompat:block/dn_stained_glass_maroon/dn_stained_glass_maroon_panel-ctm_vertical"
+  }
+}

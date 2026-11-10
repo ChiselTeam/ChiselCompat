@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/peridot/peridot_caution",
+    "particle": "chiselcompat:block/peridot/peridot_caution",
+    "standard_corner": "chiselcompat:block/peridot/peridot_caution-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/peridot/peridot_caution-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/peridot/peridot_caution-ctm_horizontal",
+    "standard_none": "chiselcompat:block/peridot/peridot_caution",
+    "standard_vertical": "chiselcompat:block/peridot/peridot_caution-ctm_vertical"
+  }
+}

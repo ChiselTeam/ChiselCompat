@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:block/cube_bottom_top_inner_faces",
+  "textures": {
+    "all": "chiselcompat:block/ae2_fluix/fluix_pillar_large_ionic_triple-side",
+    "bottom": "chiselcompat:block/ae2_fluix/fluix_pillar_basic-top",
+    "particle": "chiselcompat:block/ae2_fluix/fluix_pillar_large_ionic_triple-side",
+    "side": "chiselcompat:block/ae2_fluix/fluix_pillar_large_ionic_triple-side",
+    "top": "chiselcompat:block/ae2_fluix/fluix_pillar_basic-top",
+    "vertical_both": "chiselcompat:block/ae2_fluix/fluix_pillar_large_basic_triple-vertical_both",
+    "vertical_bottom": "chiselcompat:block/ae2_fluix/fluix_pillar_large_ionic_triple-vertical_bottom",
+    "vertical_none": "chiselcompat:block/ae2_fluix/fluix_pillar_large_ionic_triple-side",
+    "vertical_top": "chiselcompat:block/ae2_fluix/fluix_pillar_large_ionic_triple-vertical_top"
+  }
+}

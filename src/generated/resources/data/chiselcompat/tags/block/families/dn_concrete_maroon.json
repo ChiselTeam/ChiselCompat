@@ -1,0 +1,516 @@
+{
+  "values": [
+    {
+      "id": "chiselcompat:dn_concrete_maroon_array",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_border_square",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_border_square_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_braid",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_braid_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_bricks_cracked",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_bricks_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_bricks_indent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_bricks_inlayed",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_bricks_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_bricks_large_rough",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_bricks_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_bricks_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_bricks_soft",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_bricks_solid",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_bricks_square",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_bricks_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_bricks_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_caution_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_chaotic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_chaotic_medium",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_chaotic_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_checker",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_checker_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_chisel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_chisel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_chisel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_chisel_4",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_chisel_5",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_chisel_6",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_circular",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_cobble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_cracked",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_cuts",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_diamond_plating_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_dots",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_dots_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_facet",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_facet_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_facet_small_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_frame",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_french_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_french_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_gem",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_gem_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_gem_1_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_gem_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_gem_2_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_gem_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_gem_3_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_heart",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_herringbone",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_herringbone_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_indent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_jellybean",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_layers",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_layers_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_lodestone",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_lodestone_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_meander_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_meander_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_medallion",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_medallion_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_mesh_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_mosaic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_ornate_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_parquet",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_parquet_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_pillar",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_pillar_basic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_pillar_basic_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_pillar_basic_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_pillar_basic_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_pillar_basic_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_pillar_classic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_pillar_classic_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_pillar_ionic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_pillar_ionic_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_pillar_ionic_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_pillar_ionic_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_pillar_ionic_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_pillar_large_basic_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_pillar_large_ionic_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_pillar_meander",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_pillar_meander_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_pillar_meander_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_pillar_meander_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_pillar_meander_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_plank",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_plank_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_plate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_plate_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_plating",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_plumbing_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_polished",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_polished_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_prism",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_raw",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_road",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_scaffold_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_shiny",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_shiny_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_skull_creeper",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_skull_skeleton",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_slab",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_slanted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_star",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_stripes",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_stripes_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_tiles",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_tiles_inlayed",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_tiles_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_tiles_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_tiles_small_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_twisted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_waves",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_weaver",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_maroon_zag",
+      "required": false
+    },
+    {
+      "id": "dyenamics:maroon_concrete",
+      "required": false
+    }
+  ]
+}

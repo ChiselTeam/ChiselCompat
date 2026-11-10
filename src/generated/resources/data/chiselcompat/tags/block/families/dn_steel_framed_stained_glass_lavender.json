@@ -1,0 +1,112 @@
+{
+  "values": [
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_arch_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_arch_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_arch_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_arch_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_basketweave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_bubble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_circle",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_frame_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_frame_thick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_frame_thick_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_line_horizontal_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_line_vertical_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_mosaic_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_mosaic_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_panel_fancy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_rings",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_scaffold_left",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_scaffold_right",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_steel_framed_stained_glass_lavender_tile",
+      "required": false
+    }
+  ]
+}

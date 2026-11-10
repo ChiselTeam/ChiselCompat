@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/constantan",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:constantan_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:constantan_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:constantan_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:constantan_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:constantan_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:constantan_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:constantan_zelda",
+      "required": false
+    }
+  ]
+}

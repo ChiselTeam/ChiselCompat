@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/titanium/titanium_egregious",
+    "particle": "chiselcompat:block/titanium/titanium_egregious",
+    "standard_corner": "chiselcompat:block/titanium/titanium_egregious-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/titanium/titanium_egregious-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/titanium/titanium_egregious-ctm_horizontal",
+    "standard_none": "chiselcompat:block/titanium/titanium_egregious",
+    "standard_vertical": "chiselcompat:block/titanium/titanium_egregious-ctm_vertical"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "textures": {
+    "particle": "chiselcompat:block/dn_steel_framed_stained_glass_cherenkov/dn_steel_framed_stained_glass_cherenkov_scaffold_left",
+    "standard_corner": "chiselcompat:block/dn_steel_framed_stained_glass_cherenkov/dn_steel_framed_stained_glass_cherenkov_scaffold_left-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/dn_steel_framed_stained_glass_cherenkov/dn_steel_framed_stained_glass_cherenkov_scaffold_left-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/dn_steel_framed_stained_glass_cherenkov/dn_steel_framed_stained_glass_cherenkov_scaffold_left-ctm_horizontal",
+    "standard_none": "chiselcompat:block/dn_steel_framed_stained_glass_cherenkov/dn_steel_framed_stained_glass_cherenkov_scaffold_left",
+    "standard_vertical": "chiselcompat:block/dn_steel_framed_stained_glass_cherenkov/dn_steel_framed_stained_glass_cherenkov_scaffold_left-ctm_vertical"
+  }
+}

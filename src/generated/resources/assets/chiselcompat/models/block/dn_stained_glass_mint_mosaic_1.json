@@ -1,0 +1,10 @@
+{
+  "textures": {
+    "particle": "chiselcompat:block/dn_stained_glass_mint/dn_stained_glass_mint_mosaic_1",
+    "standard_corner": "chiselcompat:block/dn_stained_glass_mint/dn_stained_glass_mint_mosaic_1-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/dn_stained_glass_mint/dn_stained_glass_mint_mosaic_1-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/dn_stained_glass_mint/dn_stained_glass_mint_mosaic_1-ctm_horizontal",
+    "standard_none": "chiselcompat:block/dn_stained_glass_mint/dn_stained_glass_mint_mosaic_1",
+    "standard_vertical": "chiselcompat:block/dn_stained_glass_mint/dn_stained_glass_mint_mosaic_1-ctm_vertical"
+  }
+}

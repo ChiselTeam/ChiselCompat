@@ -1,0 +1,516 @@
+{
+  "values": [
+    {
+      "id": "chiselcompat:dn_concrete_rose_array",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_border_square",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_border_square_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_braid",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_braid_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_bricks_cracked",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_bricks_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_bricks_indent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_bricks_inlayed",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_bricks_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_bricks_large_rough",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_bricks_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_bricks_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_bricks_soft",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_bricks_solid",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_bricks_square",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_bricks_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_bricks_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_caution_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_chaotic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_chaotic_medium",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_chaotic_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_checker",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_checker_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_chisel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_chisel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_chisel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_chisel_4",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_chisel_5",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_chisel_6",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_circular",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_cobble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_cracked",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_cuts",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_diamond_plating_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_dots",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_dots_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_facet",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_facet_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_facet_small_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_frame",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_french_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_french_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_gem",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_gem_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_gem_1_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_gem_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_gem_2_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_gem_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_gem_3_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_heart",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_herringbone",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_herringbone_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_indent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_jellybean",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_layers",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_layers_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_lodestone",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_lodestone_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_meander_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_meander_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_medallion",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_medallion_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_mesh_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_mosaic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_ornate_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_parquet",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_parquet_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_pillar",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_pillar_basic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_pillar_basic_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_pillar_basic_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_pillar_basic_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_pillar_basic_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_pillar_classic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_pillar_classic_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_pillar_ionic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_pillar_ionic_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_pillar_ionic_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_pillar_ionic_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_pillar_ionic_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_pillar_large_basic_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_pillar_large_ionic_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_pillar_meander",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_pillar_meander_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_pillar_meander_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_pillar_meander_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_pillar_meander_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_plank",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_plank_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_plate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_plate_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_plating",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_plumbing_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_polished",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_polished_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_prism",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_raw",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_road",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_scaffold_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_shiny",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_shiny_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_skull_creeper",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_skull_skeleton",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_slab",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_slanted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_star",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_stripes",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_stripes_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_tiles",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_tiles_inlayed",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_tiles_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_tiles_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_tiles_small_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_twisted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_waves",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_weaver",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_rose_zag",
+      "required": false
+    },
+    {
+      "id": "dyenamics:rose_concrete",
+      "required": false
+    }
+  ]
+}

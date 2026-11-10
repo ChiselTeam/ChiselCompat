@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/coal_coke/coal_coke_encased_bricks",
+    "particle": "chiselcompat:block/coal_coke/coal_coke_encased_bricks",
+    "standard_corner": "chiselcompat:block/coal_coke/coal_coke_encased_bricks-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/coal_coke/coal_coke_encased_bricks-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/coal_coke/coal_coke_encased_bricks-ctm_horizontal",
+    "standard_none": "chiselcompat:block/coal_coke/coal_coke_encased_bricks",
+    "standard_vertical": "chiselcompat:block/coal_coke/coal_coke_encased_bricks-ctm_vertical"
+  }
+}

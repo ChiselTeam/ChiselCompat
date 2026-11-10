@@ -1,0 +1,10 @@
+{
+  "textures": {
+    "particle": "chiselcompat:block/dn_steel_framed_stained_glass_bubblegum/dn_steel_framed_stained_glass_bubblegum_arch_panel_3",
+    "standard_corner": "chiselcompat:block/dn_steel_framed_stained_glass_bubblegum/dn_steel_framed_stained_glass_bubblegum_arch_panel_3-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/dn_steel_framed_stained_glass_bubblegum/dn_steel_framed_stained_glass_bubblegum_arch_panel_3-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/dn_steel_framed_stained_glass_bubblegum/dn_steel_framed_stained_glass_bubblegum_arch_panel_3-ctm_horizontal",
+    "standard_none": "chiselcompat:block/dn_steel_framed_stained_glass_bubblegum/dn_steel_framed_stained_glass_bubblegum_arch_panel_3",
+    "standard_vertical": "chiselcompat:block/dn_steel_framed_stained_glass_bubblegum/dn_steel_framed_stained_glass_bubblegum_arch_panel_3-ctm_vertical"
+  }
+}

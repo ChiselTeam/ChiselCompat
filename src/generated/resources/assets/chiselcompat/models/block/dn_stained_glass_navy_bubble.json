@@ -1,0 +1,10 @@
+{
+  "textures": {
+    "particle": "chiselcompat:block/dn_stained_glass_navy/dn_stained_glass_navy_bubble",
+    "standard_corner": "chiselcompat:block/dn_stained_glass_navy/dn_stained_glass_navy_panel-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/dn_stained_glass_navy/dn_stained_glass_navy_borderless",
+    "standard_horizontal": "chiselcompat:block/dn_stained_glass_navy/dn_stained_glass_navy_panel-ctm_horizontal",
+    "standard_none": "chiselcompat:block/dn_stained_glass_navy/dn_stained_glass_navy_bubble",
+    "standard_vertical": "chiselcompat:block/dn_stained_glass_navy/dn_stained_glass_navy_panel-ctm_vertical"
+  }
+}

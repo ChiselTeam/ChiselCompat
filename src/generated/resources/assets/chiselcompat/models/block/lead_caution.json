@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/lead/lead_caution",
+    "particle": "chiselcompat:block/lead/lead_caution",
+    "standard_corner": "chiselcompat:block/lead/lead_caution-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/lead/lead_caution-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/lead/lead_caution-ctm_horizontal",
+    "standard_none": "chiselcompat:block/lead/lead_caution",
+    "standard_vertical": "chiselcompat:block/lead/lead_caution-ctm_vertical"
+  }
+}

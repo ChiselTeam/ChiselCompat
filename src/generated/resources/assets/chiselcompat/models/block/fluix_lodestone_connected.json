@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/ae2_fluix/fluix_lodestone",
+    "particle": "chiselcompat:block/ae2_fluix/fluix_lodestone",
+    "standard_corner": "chiselcompat:block/ae2_fluix/fluix_lodestone_connected-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/ae2_fluix/fluix_lodestone",
+    "standard_horizontal": "chiselcompat:block/ae2_fluix/fluix_lodestone_connected-ctm_horizontal",
+    "standard_none": "chiselcompat:block/ae2_fluix/fluix_lodestone",
+    "standard_vertical": "chiselcompat:block/ae2_fluix/fluix_lodestone_connected-ctm_vertical"
+  }
+}

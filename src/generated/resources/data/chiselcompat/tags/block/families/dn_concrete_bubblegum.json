@@ -1,0 +1,516 @@
+{
+  "values": [
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_array",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_border_square",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_border_square_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_braid",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_braid_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_bricks_cracked",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_bricks_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_bricks_indent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_bricks_inlayed",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_bricks_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_bricks_large_rough",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_bricks_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_bricks_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_bricks_soft",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_bricks_solid",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_bricks_square",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_bricks_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_bricks_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_caution_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_chaotic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_chaotic_medium",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_chaotic_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_checker",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_checker_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_chisel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_chisel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_chisel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_chisel_4",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_chisel_5",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_chisel_6",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_circular",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_cobble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_cracked",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_cuts",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_diamond_plating_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_dots",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_dots_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_facet",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_facet_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_facet_small_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_frame",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_french_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_french_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_gem",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_gem_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_gem_1_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_gem_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_gem_2_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_gem_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_gem_3_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_heart",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_herringbone",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_herringbone_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_indent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_jellybean",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_layers",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_layers_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_lodestone",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_lodestone_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_meander_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_meander_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_medallion",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_medallion_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_mesh_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_mosaic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_ornate_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_parquet",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_parquet_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_pillar",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_pillar_basic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_pillar_basic_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_pillar_basic_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_pillar_basic_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_pillar_basic_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_pillar_classic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_pillar_classic_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_pillar_ionic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_pillar_ionic_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_pillar_ionic_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_pillar_ionic_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_pillar_ionic_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_pillar_large_basic_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_pillar_large_ionic_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_pillar_meander",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_pillar_meander_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_pillar_meander_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_pillar_meander_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_pillar_meander_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_plank",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_plank_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_plate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_plate_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_plating",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_plumbing_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_polished",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_polished_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_prism",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_raw",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_road",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_scaffold_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_shiny",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_shiny_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_skull_creeper",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_skull_skeleton",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_slab",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_slanted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_star",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_stripes",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_stripes_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_tiles",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_tiles_inlayed",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_tiles_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_tiles_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_tiles_small_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_twisted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_waves",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_weaver",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_bubblegum_zag",
+      "required": false
+    },
+    {
+      "id": "dyenamics:bubblegum_concrete",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,516 @@
+{
+  "values": [
+    {
+      "id": "chiselcompat:dn_concrete_honey_array",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_border_square",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_border_square_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_braid",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_braid_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_bricks_cracked",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_bricks_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_bricks_indent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_bricks_inlayed",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_bricks_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_bricks_large_rough",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_bricks_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_bricks_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_bricks_soft",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_bricks_solid",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_bricks_square",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_bricks_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_bricks_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_caution_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_chaotic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_chaotic_medium",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_chaotic_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_checker",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_checker_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_chisel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_chisel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_chisel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_chisel_4",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_chisel_5",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_chisel_6",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_circular",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_cobble",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_cracked",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_cuts",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_diamond_plating_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_dots",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_dots_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_facet",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_facet_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_facet_small_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_frame",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_french_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_french_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_gem",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_gem_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_gem_1_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_gem_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_gem_2_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_gem_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_gem_3_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_heart",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_herringbone",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_herringbone_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_indent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_jellybean",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_layers",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_layers_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_line_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_line_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_lodestone",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_lodestone_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_meander_horizontal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_meander_vertical",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_medallion",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_medallion_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_mesh_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_mosaic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_ornate_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_panel_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_panel_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_panel_3",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_parquet",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_parquet_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_pillar",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_pillar_basic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_pillar_basic_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_pillar_basic_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_pillar_basic_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_pillar_basic_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_pillar_classic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_pillar_classic_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_pillar_ionic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_pillar_ionic_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_pillar_ionic_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_pillar_ionic_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_pillar_ionic_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_pillar_large_basic_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_pillar_large_ionic_triple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_pillar_meander",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_pillar_meander_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_pillar_meander_plain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_pillar_meander_round",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_pillar_meander_spiral",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_plank",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_plank_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_plate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_plate_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_plating",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_plumbing_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_polished",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_polished_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_prism",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_raw",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_road",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_scaffold_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_shiny",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_shiny_connected",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_skull_creeper",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_skull_skeleton",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_slab",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_slanted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_star",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_stripes",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_stripes_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_tiles",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_tiles_inlayed",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_tiles_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_tiles_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_tiles_small_encased",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_twisted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_waves",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_weaver",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:dn_concrete_honey_zag",
+      "required": false
+    },
+    {
+      "id": "dyenamics:honey_concrete",
+      "required": false
+    }
+  ]
+}

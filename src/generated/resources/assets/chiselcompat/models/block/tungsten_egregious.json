@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/tungsten/tungsten_egregious",
+    "particle": "chiselcompat:block/tungsten/tungsten_egregious",
+    "standard_corner": "chiselcompat:block/tungsten/tungsten_egregious-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/tungsten/tungsten_egregious-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/tungsten/tungsten_egregious-ctm_horizontal",
+    "standard_none": "chiselcompat:block/tungsten/tungsten_egregious",
+    "standard_vertical": "chiselcompat:block/tungsten/tungsten_egregious-ctm_vertical"
+  }
+}

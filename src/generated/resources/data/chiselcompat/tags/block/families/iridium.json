@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/iridium",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:iridium_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:iridium_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:iridium_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:iridium_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:iridium_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:iridium_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:iridium_zelda",
+      "required": false
+    }
+  ]
+}

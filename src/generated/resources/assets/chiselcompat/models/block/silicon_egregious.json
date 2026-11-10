@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/silicon/silicon_egregious",
+    "particle": "chiselcompat:block/silicon/silicon_egregious",
+    "standard_corner": "chiselcompat:block/silicon/silicon_egregious-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/silicon/silicon_egregious-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/silicon/silicon_egregious-ctm_horizontal",
+    "standard_none": "chiselcompat:block/silicon/silicon_egregious",
+    "standard_vertical": "chiselcompat:block/silicon/silicon_egregious-ctm_vertical"
+  }
+}

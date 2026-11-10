@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/salt/salt_scaffold",
+    "particle": "chiselcompat:block/salt/salt_scaffold",
+    "standard_corner": "chiselcompat:block/salt/salt_scaffold-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/salt/salt_scaffold-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/salt/salt_scaffold-ctm_horizontal",
+    "standard_none": "chiselcompat:block/salt/salt_scaffold",
+    "standard_vertical": "chiselcompat:block/salt/salt_scaffold-ctm_vertical"
+  }
+}

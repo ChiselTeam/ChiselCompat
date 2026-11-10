@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/tin/tin_bad_greggy",
+    "particle": "chiselcompat:block/tin/tin_bad_greggy",
+    "standard_corner": "chiselcompat:block/tin/tin_bad_greggy-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/tin/tin_bad_greggy-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/tin/tin_bad_greggy-ctm_horizontal",
+    "standard_none": "chiselcompat:block/tin/tin_bad_greggy",
+    "standard_vertical": "chiselcompat:block/tin/tin_bad_greggy-ctm_vertical"
+  }
+}

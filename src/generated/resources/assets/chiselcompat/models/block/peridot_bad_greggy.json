@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/peridot/peridot_bad_greggy",
+    "particle": "chiselcompat:block/peridot/peridot_bad_greggy",
+    "standard_corner": "chiselcompat:block/peridot/peridot_bad_greggy-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/peridot/peridot_bad_greggy-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/peridot/peridot_bad_greggy-ctm_horizontal",
+    "standard_none": "chiselcompat:block/peridot/peridot_bad_greggy",
+    "standard_vertical": "chiselcompat:block/peridot/peridot_bad_greggy-ctm_vertical"
+  }
+}

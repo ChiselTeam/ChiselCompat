@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/antimony/antimony_scaffold",
+    "particle": "chiselcompat:block/antimony/antimony_scaffold",
+    "standard_corner": "chiselcompat:block/antimony/antimony_scaffold-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/antimony/antimony_scaffold-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/antimony/antimony_scaffold-ctm_horizontal",
+    "standard_none": "chiselcompat:block/antimony/antimony_scaffold",
+    "standard_vertical": "chiselcompat:block/antimony/antimony_scaffold-ctm_vertical"
+  }
+}

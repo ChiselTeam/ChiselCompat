@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/sapphire",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:sapphire_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:sapphire_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:sapphire_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:sapphire_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:sapphire_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:sapphire_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:sapphire_zelda",
+      "required": false
+    }
+  ]
+}

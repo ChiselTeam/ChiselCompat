@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/coal_coke/coal_coke_mosaic",
+    "particle": "chiselcompat:block/coal_coke/coal_coke_mosaic",
+    "standard_corner": "chiselcompat:block/coal_coke/coal_coke_mosaic-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/coal_coke/coal_coke_raw",
+    "standard_horizontal": "chiselcompat:block/coal_coke/coal_coke_mosaic-ctm_horizontal",
+    "standard_none": "chiselcompat:block/coal_coke/coal_coke_mosaic",
+    "standard_vertical": "chiselcompat:block/coal_coke/coal_coke_mosaic-ctm_vertical"
+  }
+}

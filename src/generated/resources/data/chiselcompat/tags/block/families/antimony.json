@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/antimony",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:antimony_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:antimony_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:antimony_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:antimony_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:antimony_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:antimony_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:antimony_zelda",
+      "required": false
+    }
+  ]
+}

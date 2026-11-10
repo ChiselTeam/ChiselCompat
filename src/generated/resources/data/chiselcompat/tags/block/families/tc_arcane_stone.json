@@ -1,0 +1,60 @@
+{
+  "values": [
+    {
+      "id": "chiselcompat:arcane_big_brick",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:arcane_border",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:arcane_border_brain",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:arcane_conduit",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:arcane_crack",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:arcane_matrix",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:arcane_moon_engrave",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:arcane_moon_glow",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:arcane_runes",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:arcane_runes_glow",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:arcane_tile",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:arcane_polished_darkstone",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:chiseled_arcane_polished_darkstone",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:gilded_chiseled_polished_darkstone",
+      "required": false
+    }
+  ]
+}

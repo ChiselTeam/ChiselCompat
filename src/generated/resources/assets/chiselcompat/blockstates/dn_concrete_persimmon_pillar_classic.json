@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "chiselcompat:block/dn_concrete_persimmon_pillar_classic",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "chiselcompat:block/dn_concrete_persimmon_pillar_classic"
+    },
+    "axis=z": {
+      "model": "chiselcompat:block/dn_concrete_persimmon_pillar_classic",
+      "x": 90
+    }
+  }
+}

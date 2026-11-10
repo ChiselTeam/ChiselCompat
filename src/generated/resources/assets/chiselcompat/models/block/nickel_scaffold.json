@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/nickel/nickel_scaffold",
+    "particle": "chiselcompat:block/nickel/nickel_scaffold",
+    "standard_corner": "chiselcompat:block/nickel/nickel_scaffold-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/nickel/nickel_scaffold-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/nickel/nickel_scaffold-ctm_horizontal",
+    "standard_none": "chiselcompat:block/nickel/nickel_scaffold",
+    "standard_vertical": "chiselcompat:block/nickel/nickel_scaffold-ctm_vertical"
+  }
+}

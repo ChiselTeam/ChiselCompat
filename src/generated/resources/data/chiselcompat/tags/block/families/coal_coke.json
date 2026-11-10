@@ -1,0 +1,144 @@
+{
+  "values": [
+    {
+      "id": "#c:storage_blocks/coal_coke",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_array",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_braid",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_chaotic_bricks",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_chaotic_medium",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_chaotic_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_circular",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_cracked",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_cracked_bricks",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_cuts",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_dent",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_encased_bricks",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_french_1",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_french_2",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_jellybean",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_layers",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_mosaic",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_ornate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_panel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_pillar",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_prism",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_raw",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_road",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_slanted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_small_bricks",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_soft_bricks",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_solid_bricks",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_tiles_large",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_tiles_medium",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_tiles_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_triple_bricks",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_twisted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_weaver",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:coal_coke_zag",
+      "required": false
+    },
+    {
+      "id": "ftbmaterials:coal_coke_block",
+      "required": false
+    }
+  ]
+}

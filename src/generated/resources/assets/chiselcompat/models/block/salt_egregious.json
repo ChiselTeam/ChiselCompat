@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chiselcompat:block/salt/salt_egregious",
+    "particle": "chiselcompat:block/salt/salt_egregious",
+    "standard_corner": "chiselcompat:block/salt/salt_egregious-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/salt/salt_egregious-ctm_cornerless",
+    "standard_horizontal": "chiselcompat:block/salt/salt_egregious-ctm_horizontal",
+    "standard_none": "chiselcompat:block/salt/salt_egregious",
+    "standard_vertical": "chiselcompat:block/salt/salt_egregious-ctm_vertical"
+  }
+}

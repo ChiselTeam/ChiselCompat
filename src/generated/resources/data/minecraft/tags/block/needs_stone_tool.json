@@ -1,0 +1,984 @@
+{
+  "values": [
+    {
+      "id": "chiselcompat:aluminum_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:aluminum_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:aluminum_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:aluminum_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:aluminum_machine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:aluminum_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:aluminum_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:antimony_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:antimony_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:antimony_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:antimony_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:antimony_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:antimony_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:antimony_zelda",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:brass_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:brass_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:brass_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:brass_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:brass_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:brass_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:brass_zelda",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:bronze_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:bronze_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:bronze_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:bronze_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:bronze_machine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:bronze_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:bronze_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:chromium_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:chromium_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:chromium_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:chromium_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:chromium_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:chromium_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:chromium_zelda",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:cobalt_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:cobalt_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:cobalt_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:cobalt_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:cobalt_machine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:cobalt_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:cobalt_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:constantan_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:constantan_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:constantan_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:constantan_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:constantan_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:constantan_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:constantan_zelda",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:electrum_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:electrum_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:electrum_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:electrum_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:electrum_machine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:electrum_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:electrum_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:enderium_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:enderium_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:enderium_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:enderium_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:enderium_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:enderium_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:enderium_zelda",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:fluorite_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:fluorite_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:fluorite_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:fluorite_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:fluorite_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:fluorite_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:fluorite_zelda",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:graphite_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:graphite_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:graphite_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:graphite_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:graphite_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:graphite_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:graphite_zelda",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:invar_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:invar_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:invar_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:invar_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:invar_machine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:invar_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:invar_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:iridium_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:iridium_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:iridium_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:iridium_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:iridium_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:iridium_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:iridium_zelda",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lead_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lead_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lead_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lead_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lead_machine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lead_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lead_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lumium_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lumium_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lumium_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lumium_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lumium_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lumium_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:lumium_zelda",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:nickel_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:nickel_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:nickel_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:nickel_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:nickel_machine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:nickel_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:nickel_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:osmium_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:osmium_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:osmium_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:osmium_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:osmium_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:osmium_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:osmium_zelda",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:peridot_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:peridot_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:peridot_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:peridot_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:peridot_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:peridot_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:peridot_zelda",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:platinum_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:platinum_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:platinum_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:platinum_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:platinum_machine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:platinum_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:platinum_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:plutonium_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:plutonium_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:plutonium_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:plutonium_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:plutonium_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:plutonium_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:plutonium_zelda",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ruby_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ruby_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ruby_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ruby_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ruby_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ruby_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:ruby_zelda",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:salt_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:salt_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:salt_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:salt_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:salt_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:salt_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:salt_zelda",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:sapphire_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:sapphire_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:sapphire_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:sapphire_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:sapphire_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:sapphire_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:sapphire_zelda",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:signalum_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:signalum_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:signalum_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:signalum_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:signalum_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:signalum_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:signalum_zelda",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silicon_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silicon_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silicon_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silicon_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silicon_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silicon_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silicon_zelda",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silver_125",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silver_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silver_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silver_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silver_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silver_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:silver_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:stainless_steel_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:stainless_steel_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:stainless_steel_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:stainless_steel_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:stainless_steel_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:stainless_steel_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:stainless_steel_zelda",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:steel_125",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:steel_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:steel_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:steel_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:steel_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:steel_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:steel_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:steel_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_bevel",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_block",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_bricks",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_chunks",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_lattice",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_ornate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_planks",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_runes",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_runes_purple",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_small",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:thaumium_totem",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tin_125",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tin_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tin_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tin_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tin_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tin_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tin_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tin_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:titanium_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:titanium_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:titanium_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:titanium_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:titanium_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:titanium_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:titanium_zelda",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tungsten_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tungsten_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tungsten_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tungsten_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tungsten_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tungsten_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:tungsten_zelda",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:uranium_125",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:uranium_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:uranium_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:uranium_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:uranium_crate",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:uranium_machine",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:uranium_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:uranium_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:zinc_bad_greggy",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:zinc_bolted",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:zinc_caution",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:zinc_egregious",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:zinc_scaffold",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:zinc_thermal",
+      "required": false
+    },
+    {
+      "id": "chiselcompat:zinc_zelda",
+      "required": false
+    }
+  ]
+}

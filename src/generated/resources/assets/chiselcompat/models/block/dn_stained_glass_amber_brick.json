@@ -1,0 +1,10 @@
+{
+  "textures": {
+    "particle": "chiselcompat:block/dn_stained_glass_amber/dn_stained_glass_amber_brick",
+    "standard_corner": "chiselcompat:block/dn_stained_glass_amber/dn_stained_glass_amber_brick-ctm_corner",
+    "standard_cornerless": "chiselcompat:block/dn_stained_glass_amber/dn_stained_glass_amber_brick-ctm_corner",
+    "standard_horizontal": "chiselcompat:block/dn_stained_glass_amber/dn_stained_glass_amber_brick",
+    "standard_none": "chiselcompat:block/dn_stained_glass_amber/dn_stained_glass_amber_brick",
+    "standard_vertical": "chiselcompat:block/dn_stained_glass_amber/dn_stained_glass_amber_brick-ctm_corner"
+  }
+}
